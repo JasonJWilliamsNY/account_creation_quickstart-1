@@ -30,7 +30,7 @@ Get started
 2. Under 'New User?' click 'Register'
 3. Complete the registration process 
 
-	.. Hint:: Choose a short, easy-to-remember username. Username must be lowercase and have at least 3 characters. First character must be a lowercase letter. May only contain lowercase letters, numbers, dashes and underscores
+	.. Hint:: Choose a short, easy-to-remember username. Username must be lowercase and have at least 3 characters. First character must be a lowercase letter. Usernames may only contain lowercase letters, numbers, dashes and underscores
 4. Check your email for an account confirmation link and follow the
    confirmation instructions.
    
