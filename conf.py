@@ -9,7 +9,7 @@ sys.path.insert(0, os.path.dirname(__file__))
 
 from misc.cyverse_sphinx_conf import *  # noqa
 
-project = 'YOUR PROJECT NAME HERE as topic_quick_start or topic_tutorial'
+project = 'CyVerse Account Creation'
 copyright = '2016, CyVerse'
 author = 'Jason Williams'
 version = '1.0'
