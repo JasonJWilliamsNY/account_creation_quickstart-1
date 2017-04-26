@@ -93,7 +93,7 @@ Fix or improve this tutorial
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Fix this tutorial on GitHub:
-`GitHub <FIX_THIS_IN_YOUR_DOCUMENTATION>`_
+`GitHub <https://github.com/CyVerse-learning-materials/account_creation_quickstart>`_
 
 Send a note:
 `Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
