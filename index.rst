@@ -88,7 +88,7 @@ Additional information, help
 ..
     Short description and links to any reading materials
 
-Search for an answer: `CyVerse Learning Center <http://www.cyverse.org/learning-center>`_ or `CyVerse Wiki <https://wiki.cyverse.org>`_
+Search for an answer: `CyVerse Learning Center <http://learning.cyverse.org/>`_ or `CyVerse Wiki <https://wiki.cyverse.org>`_
 
 Post your question to the user forum:
 `Ask CyVerse <http://ask.iplantcollaborative.org/questions>`_
