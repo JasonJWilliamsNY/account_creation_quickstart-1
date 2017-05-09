@@ -9,9 +9,9 @@ sys.path.insert(0, os.path.dirname(__file__))
 
 from misc.cyverse_sphinx_conf import *  # noqa
 
-project = 'CyVerse Account Creation'
-copyright = '2016, CyVerse'
-author = 'Jason Williams'
+project = 'CyVerse Account Creation Quickstart'
+copyright = '2017, CyVerse'
+author = 'CyVerse'
 version = '1.0'
 release = '1.0'
 

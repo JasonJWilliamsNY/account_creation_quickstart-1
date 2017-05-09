@@ -1,5 +1,8 @@
 |CyVerse logo|_
 
+|Home_Icon|_ 
+`Learning Center Home <http://learning.cyverse.org/>`_
+
 Creating a CyVerse Account
 ==========================
 
@@ -30,11 +33,12 @@ Get started
 2. Under 'New User?' click 'Register'
 3. Complete the registration process 
 
-	.. Hint:: Choose a short, easy-to-remember username. Username must be lowercase and have at least 3 characters. First character must be a lowercase letter. Usernames may only contain lowercase letters, numbers, dashes and underscores
+.. Hint:: Choose a short, easy-to-remember username. Username must be lowercase and have at least 3 characters. First character must be a lowercase letter. Usernames may only contain lowercase letters, numbers, dashes and underscores
+
 4. Check your email for an account confirmation link and follow the
    confirmation instructions.
    
-   .. Tip:: Check your SPAM for the confirmation email if it does not arrive within a few minutes
+.. Tip:: Check your SPAM for the confirmation email if it does not arrive within a few minutes
 
 Summary
 ~~~~~~~
@@ -98,7 +102,14 @@ Fix this tutorial on GitHub:
 Send a note:
 `Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
 
+|Home_Icon|_ 
+`Learning Center Home <http://learning.cyverse.org/>`_
+
 .. |CyVerse logo| image:: ./img/cyverse_rgb.png
     :width: 500
     :height: 100
-.. _CyVerse logo: https://cyverse-learning-materials-home.readthedocs-hosted.com/en/latest/
+.. _CyVerse logo: http://learning.cyverse.org/
+.. |Home_Icon| image:: ./img/homeicon.png
+    :width: 25
+    :height: 25
+.. _Home_Icon: http://learning.cyverse.org/
