@@ -118,6 +118,6 @@ Send a note:
     :width: 25
     :height: 25
 .. _Home_Icon: http://learning.cyverse.org/
-.. |java| image:: ./img/java.png
+.. |java| image:: ./java.png
     :width: 250
     :height: 150
