@@ -111,7 +111,7 @@ Send a note:
 `Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
 
 |Home_Icon|_
-`Learning Center Home <http://learning.cyverse.org/>`__
+`Learning Center Home`__
 
 .. |CyVerse logo| image:: ./img/cyverse_rgb.png
     :width: 500
