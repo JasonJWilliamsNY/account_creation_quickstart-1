@@ -102,8 +102,7 @@ Post your question to the user forum:
 
 ----
 
-Fix or improve this documentation
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Fix or improve this documentation**
 
 Fix this tutorial on GitHub:
 `GitHub <https://github.com/CyVerse-learning-materials/account_creation_quickstart/blob/master/index.rst>`_
