@@ -11,7 +11,7 @@ Goal
 ----
 Create a new CyVerse account and sign up for CyVerse services.
 
-----------
+----
 
 Prerequisites
 -------------
@@ -44,6 +44,8 @@ Get started
    confirmation instructions.
 
 .. Tip:: Check your SPAM for the confirmation email if it does not arrive within a few minutes
+
+----
 
 Summary
 ~~~~~~~
@@ -85,7 +87,7 @@ you are undecided—you can request access now, or at any time.
       will receive an email notification when the service is added; this may take up to 24 hours.
 
 
-----------
+----
 
 Additional information, help
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -98,8 +100,10 @@ Search for an answer: `CyVerse Learning Center <http://learning.cyverse.org/>`_ 
 Post your question to the user forum:
 `Ask CyVerse <http://ask.iplantcollaborative.org/questions>`_
 
-Fix or improve this tutorial
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+----
+
+Fix or improve this documentation
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Fix this tutorial on GitHub:
 `GitHub <https://github.com/CyVerse-learning-materials/account_creation_quickstart/blob/master/index.rst>`_
@@ -108,7 +112,7 @@ Send a note:
 `Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
 
 |Home_Icon|_
-`Learning Center Home <http://learning.cyverse.org/>`_
+`Learning Center Home <http://learning.cyverse.org/>`__
 
 .. |CyVerse logo| image:: ./img/cyverse_rgb.png
     :width: 500
