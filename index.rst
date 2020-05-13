@@ -35,7 +35,7 @@ Get started
 
 
 1. Go to the CyVerse user portal: `https://user.cyverse.org/ <https://user.cyverse.org/>`_
-2. From the popup, click the `< Sign up <https://user.cyverse.org/register>`_ link.
+2. From the popup, click the `Sign up <https://user.cyverse.org/register>`_ link.
 3. Complete the registration process
 
 .. Hint:: Choose a short, easy-to-remember username. Username must be lowercase and have at least 3 characters. First character must be a lowercase letter. Usernames may only contain lowercase letters, numbers, dashes and underscores
