@@ -1,4 +1,8 @@
-|CyVerse logo|_
+.. include:: cyverse_rst_defined_substitutions.txt
+|CyVerse_logo|_
+
+|Home_Icon|_
+`Learning Center Home <http://learning.cyverse.org/>`_
 
 Creating a CyVerse Account
 ==========================
@@ -8,7 +12,7 @@ Goal
 ----
 Create a new CyVerse account and sign up for CyVerse services.
 
-----------
+----
 
 Prerequisites
 -------------
@@ -24,17 +28,25 @@ Prerequisites
 Get started
 ~~~~~~~~~~~
 
+.. tip::
+   Ensure Java Script is enabled on your web browser. A pop-up blocker or other
+   notification symbol may indicate this.
+
+   |java|
 
 
 1. Go to the CyVerse user portal: `https://user.cyverse.org/ <https://user.cyverse.org/>`_
-2. Under 'New User?' click 'Register'
-3. Complete the registration process 
+2. From the popup, click the `Sign up <https://user.cyverse.org/register>`_ link.
+3. Complete the registration process
 
-	.. Hint:: Choose a short, easy-to-remember username. Username must be lowercase and have at least 3 characters. First character must be a lowercase letter. May only contain lowercase letters, numbers, dashes and underscores
+.. Hint:: Choose a short, easy-to-remember username. Username must be lowercase and have at least 3 characters. First character must be a lowercase letter. Usernames may only contain lowercase letters, numbers, dashes and underscores
+
 4. Check your email for an account confirmation link and follow the
    confirmation instructions.
-   
-   .. Tip:: Check your SPAM for the confirmation email if it does not arrive within a few minutes
+
+.. Tip:: Check your SPAM for the confirmation email if it does not arrive within a few minutes
+
+----
 
 Summary
 ~~~~~~~
@@ -69,14 +81,14 @@ you are undecided—you can request access now, or at any time.
 -  TARGeT - An advanced pipeline for the detection of transposable
    elements.
 
-.. Tip:: 
-      To register for Atmosphere or other services, login to the user portal's dashboard 
-      (`https://user.cyverse.org/dashboard <https://user.cyverse.org/dashboard>`_ ). Under 
-      "My Services" click the 'Request Access' button next to the additional service. You 
+.. Tip::
+      To register for Atmosphere or other services, login to the user portal's dashboard
+      (`https://user.cyverse.org/dashboard <https://user.cyverse.org/dashboard>`_ ). Under
+      "My Services" click the 'Request Access' button next to the additional service. You
       will receive an email notification when the service is added; this may take up to 24 hours.
 
-      
-----------
+
+----
 
 Additional information, help
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -84,21 +96,35 @@ Additional information, help
 ..
     Short description and links to any reading materials
 
-Search for an answer: `CyVerse Learning Center <http://www.cyverse.org/learning-center>`_ or `CyVerse Wiki <https://wiki.cyverse.org>`_
 
-Post your question to the user forum:
-`Ask CyVerse <http://ask.iplantcollaborative.org/questions>`_
 
-Fix or improve this tutorial
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Fix this tutorial on GitHub:
-`GitHub <FIX_THIS_IN_YOUR_DOCUMENTATION>`_
 
-Send a note:
-`Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
+----
+
+**Fix or improve this documentation**
+
+- Search for an answer:
+  |CyVerse Learning Center|
+- Ask us for help:
+  click |Intercom| on the lower right-hand side of the page
+- Report an issue or submit a change:
+  |Github Repo Link|
+- Send feedback: `Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
+
+
+
+|Home_Icon|_
+`Learning Center Home`__
 
 .. |CyVerse logo| image:: ./img/cyverse_rgb.png
     :width: 500
     :height: 100
-.. _CyVerse logo: https://cyverse-learning-materials-home.readthedocs-hosted.com/en/latest/
+.. _CyVerse logo: http://learning.cyverse.org/
+.. |Home_Icon| image:: ./img/homeicon.png
+    :width: 25
+    :height: 25
+.. _Home_Icon: http://learning.cyverse.org/
+.. |java| image:: ./java.png
+    :width: 250
+    :height: 150
